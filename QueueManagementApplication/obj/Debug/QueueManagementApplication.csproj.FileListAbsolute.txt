@@ -1,0 +1,9 @@
+c:\users\popy\documents\visual studio 2013\Projects\QueueManagementApplication\QueueManagementApplication\bin\Debug\QueueManagementApplication.exe.config
+c:\users\popy\documents\visual studio 2013\Projects\QueueManagementApplication\QueueManagementApplication\bin\Debug\QueueManagementApplication.exe
+c:\users\popy\documents\visual studio 2013\Projects\QueueManagementApplication\QueueManagementApplication\bin\Debug\QueueManagementApplication.pdb
+c:\users\popy\documents\visual studio 2013\Projects\QueueManagementApplication\QueueManagementApplication\obj\Debug\QueueManagementApplication.csprojResolveAssemblyReference.cache
+c:\users\popy\documents\visual studio 2013\Projects\QueueManagementApplication\QueueManagementApplication\obj\Debug\QueueManagementApplication.Properties.Resources.resources
+c:\users\popy\documents\visual studio 2013\Projects\QueueManagementApplication\QueueManagementApplication\obj\Debug\QueueManagementApplication.csproj.GenerateResource.Cache
+c:\users\popy\documents\visual studio 2013\Projects\QueueManagementApplication\QueueManagementApplication\obj\Debug\QueueManagementApplication.exe
+c:\users\popy\documents\visual studio 2013\Projects\QueueManagementApplication\QueueManagementApplication\obj\Debug\QueueManagementApplication.pdb
+c:\users\popy\documents\visual studio 2013\Projects\QueueManagementApplication\QueueManagementApplication\obj\Debug\QueueManagementApplication.QueueManagementApp.resources
